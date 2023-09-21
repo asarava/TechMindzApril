@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-21T08:50:44 GST" name="Suite" finished-at="2023-09-21T08:52:49 GST" duration-ms="125128">
+    <groups>
+    </groups>
+    <test started-at="2023-09-21T08:50:44 GST" name="Test" finished-at="2023-09-21T08:52:49 GST" duration-ms="125128">
+      <class name="com.testcases.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:50:44 GST" name="setUp" finished-at="2023-09-21T08:51:05 GST" duration-ms="20476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FalseLoginTest()[pri:1, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:05 GST" name="FalseLoginTest" finished-at="2023-09-21T08:51:06 GST" duration-ms="1263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FalseLoginTest -->
+        <test-method signature="customerLoginTest()[pri:2, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:06 GST" name="customerLoginTest" finished-at="2023-09-21T08:51:12 GST" duration-ms="5731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+        <test-method signature="adminTest()[pri:3, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:12 GST" name="adminTest" finished-at="2023-09-21T08:51:17 GST" duration-ms="5373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTest -->
+        <test-method signature="pimTest()[pri:4, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:17 GST" name="pimTest" finished-at="2023-09-21T08:51:21 GST" duration-ms="3559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimTest -->
+        <test-method signature="leaveTest()[pri:5, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:21 GST" name="leaveTest" finished-at="2023-09-21T08:51:26 GST" duration-ms="5037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveTest -->
+        <test-method signature="timeTest()[pri:6, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:26 GST" name="timeTest" finished-at="2023-09-21T08:51:36 GST" duration-ms="9927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeTest -->
+        <test-method signature="recruitmentTest()[pri:7, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:36 GST" name="recruitmentTest" finished-at="2023-09-21T08:51:42 GST" duration-ms="6403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recruitmentTest -->
+        <test-method signature="myinfoTest()[pri:8, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:42 GST" name="myinfoTest" finished-at="2023-09-21T08:51:47 GST" duration-ms="4953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myinfoTest -->
+        <test-method signature="performanceTest()[pri:9, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:47 GST" name="performanceTest" finished-at="2023-09-21T08:51:49 GST" duration-ms="2211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performanceTest -->
+        <test-method signature="dashboardTest()[pri:10, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:49 GST" name="dashboardTest" finished-at="2023-09-21T08:51:52 GST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardTest -->
+        <test-method signature="directoryTest()[pri:11, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:52 GST" name="directoryTest" finished-at="2023-09-21T08:51:54 GST" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- directoryTest -->
+        <test-method signature="claimTest()[pri:12, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:54 GST" name="claimTest" finished-at="2023-09-21T08:51:57 GST" duration-ms="2941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- claimTest -->
+        <test-method signature="buzzTest()[pri:13, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:57 GST" name="buzzTest" finished-at="2023-09-21T08:51:59 GST" duration-ms="1839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buzzTest -->
+        <test-method signature="maintanenceTest()[pri:14, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:51:59 GST" name="maintanenceTest" finished-at="2023-09-21T08:52:09 GST" duration-ms="10099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maintanenceTest -->
+        <test-method signature="AddEmployee()[pri:15, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:09 GST" name="AddEmployee" finished-at="2023-09-21T08:52:21 GST" duration-ms="11677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method signature="TimeSheet()[pri:16, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:21 GST" name="TimeSheet" finished-at="2023-09-21T08:52:24 GST" duration-ms="3177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeSheet -->
+        <test-method signature="AdminSearch()[pri:17, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:24 GST" name="AdminSearch" finished-at="2023-09-21T08:52:34 GST" duration-ms="10095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminSearch -->
+        <test-method signature="buzz()[pri:18, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:34 GST" name="buzz" finished-at="2023-09-21T08:52:37 GST" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buzz -->
+        <test-method signature="BuzzNewsFeed()[pri:19, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:37 GST" name="BuzzNewsFeed" finished-at="2023-09-21T08:52:40 GST" duration-ms="2916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuzzNewsFeed -->
+        <test-method signature="Claim()[pri:20, instance:com.testcases.TestCases@7c7a06ec]" started-at="2023-09-21T08:52:40 GST" name="Claim" finished-at="2023-09-21T08:52:49 GST" duration-ms="9162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Claim -->
+      </class> <!-- com.testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
