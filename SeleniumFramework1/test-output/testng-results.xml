@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-21T13:55:59 IST" name="Suite" finished-at="2023-09-21T13:58:51 IST" duration-ms="172292">
+    <groups>
+    </groups>
+    <test started-at="2023-09-21T13:55:59 IST" name="Test" finished-at="2023-09-21T13:58:51 IST" duration-ms="172292">
+      <class name="com.testcases.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:55:59 IST" name="setUp" finished-at="2023-09-21T13:56:13 IST" duration-ms="14506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginSuccessTestcase()[pri:1, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:13 IST" name="loginSuccessTestcase" finished-at="2023-09-21T13:56:19 IST" duration-ms="5445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessTestcase -->
+        <test-method signature="invalidPasswordTestcase()[pri:2, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:19 IST" name="invalidPasswordTestcase" finished-at="2023-09-21T13:56:22 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordTestcase -->
+        <test-method signature="invalidUsernameTestcase()[pri:3, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:22 IST" name="invalidUsernameTestcase" finished-at="2023-09-21T13:56:24 IST" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsernameTestcase -->
+        <test-method signature="emptyCredentialsTestcase()[pri:4, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:24 IST" name="emptyCredentialsTestcase" finished-at="2023-09-21T13:56:26 IST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCredentialsTestcase -->
+        <test-method signature="emptyPasswordTestcase()[pri:5, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:26 IST" name="emptyPasswordTestcase" finished-at="2023-09-21T13:56:27 IST" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPasswordTestcase -->
+        <test-method signature="emptyUsernameTestcase()[pri:6, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:27 IST" name="emptyUsernameTestcase" finished-at="2023-09-21T13:56:29 IST" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUsernameTestcase -->
+        <test-method signature="forgetPasswordTestcase()[pri:7, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:29 IST" name="forgetPasswordTestcase" finished-at="2023-09-21T13:56:33 IST" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordTestcase -->
+        <test-method signature="viewLeaveList()[pri:10, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:56:33 IST" name="viewLeaveList" finished-at="2023-09-21T13:57:06 IST" duration-ms="33262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewLeaveList -->
+        <test-method signature="viewProjectInfoTestCase()[pri:11, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:57:06 IST" name="viewProjectInfoTestCase" finished-at="2023-09-21T13:57:20 IST" duration-ms="13348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewProjectInfoTestCase -->
+        <test-method signature="vacanciesBasedOnHriringmanager()[pri:13, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:57:20 IST" name="vacanciesBasedOnHriringmanager" finished-at="2023-09-21T13:57:38 IST" duration-ms="18372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vacanciesBasedOnHriringmanager -->
+        <test-method signature="viewPerformanceTrackerTestcase()[pri:14, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:57:38 IST" name="viewPerformanceTrackerTestcase" finished-at="2023-09-21T13:57:52 IST" duration-ms="14016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewPerformanceTrackerTestcase -->
+        <test-method signature="viewDashboardDetails()[pri:15, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:57:52 IST" name="viewDashboardDetails" finished-at="2023-09-21T13:57:57 IST" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewDashboardDetails -->
+        <test-method signature="searchEmployeeBasedOnJobTitleTestcase()[pri:16, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:57:57 IST" name="searchEmployeeBasedOnJobTitleTestcase" finished-at="2023-09-21T13:58:08 IST" duration-ms="11560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmployeeBasedOnJobTitleTestcase -->
+        <test-method signature="vaccancyFromPurgeRecordsTestcase()[pri:17, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:58:08 IST" name="vaccancyFromPurgeRecordsTestcase" finished-at="2023-09-21T13:58:24 IST" duration-ms="15470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vaccancyFromPurgeRecordsTestcase -->
+        <test-method signature="employeeClaimsTestcase()[pri:18, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:58:24 IST" name="employeeClaimsTestcase" finished-at="2023-09-21T13:58:35 IST" duration-ms="11066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeClaimsTestcase -->
+        <test-method signature="buzzNewsfeedTestcase()[pri:19, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:58:35 IST" name="buzzNewsfeedTestcase" finished-at="2023-09-21T13:58:41 IST" duration-ms="6153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buzzNewsfeedTestcase -->
+        <test-method signature="logoutTestcase()[pri:20, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:58:41 IST" name="logoutTestcase" finished-at="2023-09-21T13:58:46 IST" duration-ms="4643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTestcase -->
+        <test-method signature="myInfoViewTestcase()[pri:21, instance:com.testcases.TestCases@2cf3d63b]" started-at="2023-09-21T13:58:46 IST" name="myInfoViewTestcase" finished-at="2023-09-21T13:58:51 IST" duration-ms="5279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myInfoViewTestcase -->
+      </class> <!-- com.testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
